@@ -1,0 +1,20 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+}
+
+.card {
+  border: 2px gray solid;
+  border-radius: 25px;
+  width: 250px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
